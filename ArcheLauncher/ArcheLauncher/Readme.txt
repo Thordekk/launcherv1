@@ -1,0 +1,1 @@
+﻿Place config.xml in your website htdocs or www folder.

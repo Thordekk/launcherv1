@@ -1,0 +1,14 @@
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\bin\Debug\ArcheLauncher.exe
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\bin\Debug\ArcheLauncher.pdb
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher.csprojAssemblyReference.cache
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\MainWindow.g.cs
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\App.g.cs
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher_MarkupCompile.cache
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher_MarkupCompile.lref
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\MainWindow.baml
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher.g.resources
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher.Properties.Resources.resources
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher.csproj.GenerateResource.cache
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher.csproj.CoreCompileInputs.cache
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher.exe
+D:\Development\ElunaWotlk\c# project launcher\ArcheLauncher\ArcheLauncher\obj\Debug\ArcheLauncher.pdb

@@ -1,0 +1,25 @@
+<launcher>
+<!--site url with http:// -->
+  <site_address>archewow.com</site_address>
+  
+<!--html node type class,id,div,etc -->
+  <node_type>class</node_type>
+  
+<!--html node name -->
+  <node_name>testimonials-name</node_name>
+  
+<!--patch filename -->
+  <patch_filename>patch-9.MPQ</patch_filename>
+  
+<!--patch version -->
+  <patch_version>1</patch_version>
+  
+  <!-- version filename -->
+  <version_filename>archewow_version.txt</version_filename>
+  
+<!--patch download url -->
+  <patch_url>http://localhost/patch-9.MPQ</patch_url>
+  
+<!-- realmlist -->
+  <realmlist>logon.archewow.com</realmlist>
+</launcher>
